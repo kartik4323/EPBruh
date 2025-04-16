@@ -1,0 +1,98 @@
+/* Contact.css */
+
+.contact-section {
+  padding: 4rem 0;
+  background-color: white;
+}
+
+.container {
+  max-width: 7xl;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.contact-header {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.contact-title {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #1a202c; /* gray-900 */
+  margin-bottom: 1rem;
+}
+
+.contact-description {
+  font-size: 1.125rem;
+  color: #4a5568; /* gray-600 */
+  max-width: 48rem;
+  margin: 0 auto;
+}
+
+.contact-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+}
+
+.contact-form-container {
+  grid-column: span 2;
+}
+
+.contact-info {
+  background-color: #ebf8ff; /* blue-50 */
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+}
+
+.contact-info-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: #1a202c; /* gray-900 */
+  margin-bottom: 1rem;
+}
+
+.contact-details {
+  margin-top: 1.5rem;
+}
+
+.contact-item {
+  margin-bottom: 1.5rem;
+}
+
+.contact-item-title {
+  font-weight: 500;
+  font-size: 1rem;
+  color: #1a202c; /* gray-900 */
+  margin-bottom: 0.5rem;
+}
+
+.contact-item-description {
+  color: #4a5568; /* gray-600 */
+}
+
+.follow-us {
+  margin-top: 2rem;
+}
+
+.follow-us-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: #1a202c; /* gray-900 */
+  margin-bottom: 1rem;
+}
+
+.social-icons {
+  display: flex;
+  gap: 1rem;
+}
+
+.social-icon {
+  color: #3182ce; /* blue-600 */
+  transition: color 0.3s ease;
+}
+
+.social-icon:hover {
+  color: #2b6cb0; /* blue-800 */
+}

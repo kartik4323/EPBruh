@@ -1,0 +1,57 @@
+/* Testimonial.css */
+
+/* Container for each testimonial */
+.testimonial-container {
+  background-color: white;
+  border-radius: 1rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 2rem;
+  max-width: 36rem;
+  margin: 0 auto;
+}
+
+/* Content layout */
+.testimonial-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+/* Icon styling */
+.testimonial-icon {
+  margin-bottom: 1.5rem;
+}
+
+.testimonial-svg {
+  height: 2rem;
+  width: 2rem;
+  color: #3182ce; /* blue-500 */
+  margin-bottom: 1rem;
+}
+
+/* Quote styling */
+.testimonial-quote {
+  font-size: 1.25rem;
+  color: #4a5568; /* gray-700 */
+  margin-bottom: 1.5rem;
+}
+
+/* Author info styling */
+.testimonial-author-info {
+  margin-top: 1rem;
+}
+
+.testimonial-author {
+  font-weight: 500;
+  font-size: 1.125rem;
+  color: #2d3748; /* gray-900 */
+}
+
+.testimonial-position {
+  color: #3182ce; /* blue-600 */
+}
+
+.testimonial-company {
+  color: #a0aec0; /* gray-500 */
+}
