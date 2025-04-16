@@ -34,7 +34,7 @@ const About = () => {
           <div className="about-image-container">
             <img
               src="/api/placeholder/500/400"
-              alt="About VoiceAuditPro"
+              alt="About RedGeneralPro"
               className="about-image"
             />
           </div>
