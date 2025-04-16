@@ -10,7 +10,7 @@ const Testimonials = () => {
     {
       id: 1,
       quote:
-        "VoiceAuditPro transformed our call center operations. We've seen a 35% improvement in our customer satisfaction scores within just three months of implementation.",
+        "RedGeneralPro transformed our call center operations. We've seen a 35% improvement in our customer satisfaction scores within just three months of implementation.",
       author: "Sarah Johnson",
       position: "Customer Service Director",
       company: "Global Retail Solutions",
@@ -18,7 +18,7 @@ const Testimonials = () => {
     {
       id: 2,
       quote:
-        "The insights we've gained from VoiceAuditPro have been invaluable. We've identified key areas for improvement and our agents are now more confident and effective than ever.",
+        "The insights we've gained from RedGeneralPro have been invaluable. We've identified key areas for improvement and our agents are now more confident and effective than ever.",
       author: "Michael Chen",
       position: "Operations Manager",
       company: "TechSupport Plus",
@@ -26,7 +26,7 @@ const Testimonials = () => {
     {
       id: 3,
       quote:
-        "As a financial services company, compliance is critical. VoiceAuditPro has helped us maintain 100% script adherence and dramatically reduce our regulatory risk.",
+        "As a financial services company, compliance is critical. RedGeneralPro has helped us maintain 100% script adherence and dramatically reduce our regulatory risk.",
       author: "Jennifer Martinez",
       position: "Compliance Officer",
       company: "First Financial Services",

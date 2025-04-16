@@ -42,7 +42,7 @@ const About = () => {
           <div className="about-text-container">
             <h2 className="about-heading">About VoiceAuditPro</h2>
             <p className="about-paragraph">
-              VoiceAuditPro is a AI-powered call auditing services, helping
+              RedGeneralPro is a AI-powered call auditing services, helping
               businesses transform their customer interactions through advanced
               analytics and actionable insights.
             </p>

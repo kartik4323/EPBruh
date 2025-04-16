@@ -26,7 +26,7 @@ const Navbar = () => {
         <div className="navbar-content">
           <Link to="/" className="navbar-logo">
             <span className="navbar-brand">
-              Voice<span className="text-dark">Audit</span>Pro
+              Red<span className="text-dark">General</span>Pro
             </span>
           </Link>
 
